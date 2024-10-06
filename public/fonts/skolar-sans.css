@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Skolar Sans';
+  src: url('SkolarSans-Regular.woff2') format('woff2'),
+       url('SkolarSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Skolar Sans';
+  src: url('SkolarSans-Bold.woff2') format('woff2'),
+       url('SkolarSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* Add more @font-face rules for other weights and styles as needed */
