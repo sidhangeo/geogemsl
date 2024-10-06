@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/geogemsl/static/css/main.e6c13ad2.css",
-    "main.js": "/geogemsl/static/js/main.f151b36c.js",
+    "main.js": "/geogemsl/static/js/main.b1561e7d.js",
     "static/js/453.d69d8583.chunk.js": "/geogemsl/static/js/453.d69d8583.chunk.js",
-    "static/media/shop_in_1.png": "/geogemsl/static/media/shop_in_1.996816f77aeaa938e89d.png",
-    "static/media/shop_in_2.png": "/geogemsl/static/media/shop_in_2.c8d917c28e44d50b54f7.png",
-    "static/media/shop_in_3.png": "/geogemsl/static/media/shop_in_3.ec190b56b54aab1752c4.png",
+    "static/media/shop_in_1.png": "/geogemsl/static/media/shop_in_1.2b8dc3ef8e65e29ded92.png",
+    "static/media/shop_in_2.png": "/geogemsl/static/media/shop_in_2.309f1b93d27f91bad313.png",
+    "static/media/shop_in_3.png": "/geogemsl/static/media/shop_in_3.78c7d0c793b1d9bf435e.png",
     "static/media/j1.jpg": "/geogemsl/static/media/j1.e54ad5ba88550996472a.jpg",
     "static/media/j7.jpg": "/geogemsl/static/media/j7.845801764c46ce7a1df5.jpg",
     "static/media/j8.jpg": "/geogemsl/static/media/j8.b871f0708fcfacef5017.jpg",
@@ -19,11 +19,11 @@
     "static/media/geo_gem_logo.png": "/geogemsl/static/media/geo_gem_logo.d81a0ed67eebdd172ede.png",
     "index.html": "/geogemsl/index.html",
     "main.e6c13ad2.css.map": "/geogemsl/static/css/main.e6c13ad2.css.map",
-    "main.f151b36c.js.map": "/geogemsl/static/js/main.f151b36c.js.map",
+    "main.b1561e7d.js.map": "/geogemsl/static/js/main.b1561e7d.js.map",
     "453.d69d8583.chunk.js.map": "/geogemsl/static/js/453.d69d8583.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.f151b36c.js"
+    "static/js/main.b1561e7d.js"
   ]
 }
