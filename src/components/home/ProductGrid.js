@@ -1,7 +1,6 @@
 import React from 'react';
 import { StyleSheet, css } from 'aphrodite';
-import ProductCard from './ProductCard';  // Updated import path
-import { theme } from '../../styles/theme';
+import ProductCard from './ProductCard';
 
 // Import all images from the collections folder
 const collectionImages = require.context('../../assets/collections', false, /\.(png|jpe?g|svg)$/)
