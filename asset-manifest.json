@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/geogemsl/static/css/main.e6c13ad2.css",
-    "main.js": "/geogemsl/static/js/main.b1561e7d.js",
+    "main.js": "/geogemsl/static/js/main.d199c9eb.js",
     "static/js/453.d69d8583.chunk.js": "/geogemsl/static/js/453.d69d8583.chunk.js",
     "static/media/shop_in_1.png": "/geogemsl/static/media/shop_in_1.2b8dc3ef8e65e29ded92.png",
     "static/media/shop_in_2.png": "/geogemsl/static/media/shop_in_2.309f1b93d27f91bad313.png",
@@ -19,11 +19,11 @@
     "static/media/geo_gem_logo.png": "/geogemsl/static/media/geo_gem_logo.d81a0ed67eebdd172ede.png",
     "index.html": "/geogemsl/index.html",
     "main.e6c13ad2.css.map": "/geogemsl/static/css/main.e6c13ad2.css.map",
-    "main.b1561e7d.js.map": "/geogemsl/static/js/main.b1561e7d.js.map",
+    "main.d199c9eb.js.map": "/geogemsl/static/js/main.d199c9eb.js.map",
     "453.d69d8583.chunk.js.map": "/geogemsl/static/js/453.d69d8583.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b1561e7d.js"
+    "static/js/main.d199c9eb.js"
   ]
 }
