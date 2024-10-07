@@ -2,7 +2,7 @@
   "name": "geogemsl",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sidhangeo.github.io/geogemsl/",
+  "homepage": "https://sidhangeo.github.io/geogemsl",
   "main": "public/index.js",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.6.0",
