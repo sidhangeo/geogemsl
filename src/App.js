@@ -11,6 +11,13 @@ import { Helmet } from 'react-helmet';
 import { TitleProvider, useTitle } from './contexts/TitleContext';
 import { theme } from './styles/theme';
 
+// Add this function to get the basename
+function getBasename() {
+  return process.env.NODE_ENV === 'production'
+    ? '/' + process.env.REACT_APP_REPO_NAME
+    : '/';
+}
+
 function AppContent() {
   const { title } = useTitle();
 
@@ -35,7 +42,7 @@ function AppContent() {
 
 function App() {
   return (
-    <Router>
+    <Router basename={getBasename()}>
       <TitleProvider>
         <AppContent />
       </TitleProvider>
